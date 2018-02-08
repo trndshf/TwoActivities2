@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LifeCycles</string>
+    <string name="button_main">Kirim</string>
+    <string name="activity2_name"></string>
+    <string name="text_header">Pesan diterima</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="editText_second">Enter Your Message Here</string>
+    <string name="button_second">Kirim</string>
+    <string name="text_header_reply">Balasan diterima</string>
+    <string name="toast_messagge">Ada Aktifitas Baru</string>
+    <string name="toast_messagge2">Ada Aktifitas Baru Lagi</string>
+
+</resources>
